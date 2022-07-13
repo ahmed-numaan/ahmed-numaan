@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ahmed Numaan
+
+👋 Hello, I'm Ahmed. I am a Senior Full Stack Deveoper since 2008. 
+I have developed web and mobile applications for clients in United States, Europe, Australia and South Korea. 
+I have helped companies grow their business using information systems at their organzation by developing their software such as enterprise applications, ecommerce, analytical dashboards, inventory, logistics, human resource, accounting and e-learning solutions.
+I have experience in developing websites for marketing of services, promotion of business and running their marketing campaigns through online advertisement.
