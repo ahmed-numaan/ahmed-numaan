@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 # Ahmed Numaan
 
-👋 Hello, I'm Ahmed. I am a Senior Full Stack Deveoper since 2008. 
-I have developed web and mobile applications for clients in United States, Europe, Australia and South Korea. 
-I have helped companies grow their business using information systems at their organzation by developing their software such as enterprise applications, ecommerce, analytical dashboards, inventory, logistics, human resource, accounting and e-learning solutions.
-I have experience in developing websites for marketing of services, promotion of business and running their marketing campaigns through online advertisement.
+Hello, I'm Ahmed from Pakistan. 
+
+I am a Senior Full Stack Developer since 2008. Specialized in Web and Mobile applications development in ReactJS, VueJS, Laravel(PHP) & NodeJS.
+
+I have successfully completed many projects for clients in United States, Europe, Australia and South Korea. My projects helped organizations grow their business by using custom developed softwares such as enterprise applications, ecommerce, inventory, logistics, human resource, accounting and elearning solutions.
+
+Websites developed by me are used by organizations for marketing of their services, promotion of their sales and run online campaigns through advertisement.
