@@ -8,7 +8,7 @@ I have successfully completed many projects for clients in United States, Europe
 
 ## About Me
 
-- 🔭 I’m currently working on: Project in React/Java for a client in South Korea
+- 🔭 I’m currently working on: Project in React/Java
 - 📫 How to reach me: `se.numaan@gmail.com` or `engr.numaan@yahoo.com`
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I add honey instead of sugar in tea
