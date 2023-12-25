@@ -1,16 +1,8 @@
 # Ahmed Numaan
 
-Hello, I'm Ahmed from Pakistan. 
+I am Ahmed, based in Pakistan. I am a Senior Full Stack Developer since 2008. Specialized in Web and Mobile applications development. Over the years, I have effectively delivered numerous projects for clients across the United States, Europe, Australia, and South Korea. Drawing on my technical expertise in Software Engineering, my mission is to assist organizations in advancing and expanding their businesses by integrating information systems for operational and managerial processes. This encompasses the implementation of solutions such as Enterprise Resource Planner (ERP), eCommerce, Inventory, Logistics, Human Resources, Accounting, Customer Support, and eLearning.
 
-I am a Senior Full Stack Developer since 2008. Specialized in Web and Mobile applications development.
-
-I have successfully completed many projects for clients in United States, Europe, Australia and South Korea. Using my technical expertise in Software Engineering, I am here to help organizations promote and grow their business by implementing information systems for operations and management processes. This includes Enterprise Resource Planner(ERP), eCommerce, Inventory, Logistics, Human Resource, Accounting, Customer support and eLearning solutions.
-
-## About Me
-
-- 🔭 I’m currently working on: Project in React/Java
-- 📫 How to reach me: `se.numaan@gmail.com` or `engr.numaan@yahoo.com`
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I add honey instead of sugar in tea
-
+Email: `se.numaan@gmail.com` or `engr.numaan@yahoo.com`
+Linkedin: https://www.linkedin.com/in/ahmed-numaan/
+Phone: +0092 0304 6921 060
 
