@@ -1,7 +1,8 @@
 # Ahmed Numaan
 
 
-Experienced Full-Stack Developer or Cloud DevOps with over 10 years of industry experience in designing, developing, testing, deploying, and optimizing scalable, maintainable applications using modern front-end and back-end technologies along with cloud platforms. Successfully delivered projects for clients across the United States, Europe, Australia, and South Korea. Currently seeking a position in a similar role where I can contribute my backend expertise, cloud knowledge, and full-stack capabilities to drive impactful solutions.
+I am a senior software engineer with a proven track record of delivering high-quality, reliable solutions and
+helping companies around the world build software that works well and solves real problems. I gave worked with teams in the U.S., Europe, Australia, and South Korea, and I enjoy turning complex ideas into simple, reliable solutions. I am now looking for a role where I can use my experience to make a positive impact and help build great products.
 
 - Email: `se.numaan@gmail.com`
 - Linkedin: https://www.linkedin.com/in/ahmed-numaan/
