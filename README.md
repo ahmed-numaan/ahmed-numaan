@@ -6,6 +6,6 @@ helping companies around the world build software that works well and solves rea
 
 - Email: `se.numaan@gmail.com`
 - Linkedin: https://www.linkedin.com/in/ahmed-numaan/
-- Phone: +49 176 7709 3654
+- Phone: +49 152 11780874
 - Actively looking for work | #OpenToWork
 
